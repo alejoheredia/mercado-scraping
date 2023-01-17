@@ -16,9 +16,3 @@ def create_file(path, filename=None, prefix='output'):
   fpath = os.path.join(path, fname)
   open(fpath, 'a')
   return fpath
-
-def calc_product_quantity(product_price_label, product_price_unit_label):
-  if product_price_unit_label:
-    return (product_price_unit_label[0][1:], float(product_price_label[1].replace('.', '').replace(',', '.')), float(product_price_unit_label[1][2:-1].replace('.', '').replace(',', '.')))
-  else:
-    return(None, 0, 0)
