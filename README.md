@@ -5,8 +5,8 @@ It is a super simple CLI that aims to execute a web scraper to pull data from so
 ## Requirements
 
 - Python 3.X
-- [Selenium (4.5.0)] (https://selenium-python.readthedocs.io/installation.html) 
-- Webdriver for Selenium (For this project I used [Chrome]'s(https://sites.google.com/chromium.org/driver/?pli=1))
+- [Selenium (4.5.0)](https://selenium-python.readthedocs.io/installation.html)
+- Webdriver for Selenium (For this project I used [Chrome](https://sites.google.com/chromium.org/driver/?pli=1)'s)
 
 ## Execute the scraper
 
