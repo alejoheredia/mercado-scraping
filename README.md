@@ -1,6 +1,6 @@
 #Mercado Scraping
 
-It is a super simple CLI which aims to execute a web scraper to pull data from some of the web catalogs from big super markets in Colombia (Currently it supports Éxito, Jumbo and Carulla web catalogs). It will grab the products found and save it to a csv file.
+It is a super simple CLI that aims to execute a web scraper to pull data from some of the web catalogs from big super markets in Colombia (Currently it supports Éxito, Jumbo and Carulla web catalogs). It will grab the products found and save them to a csv file.
 
 ## Requirements
 
